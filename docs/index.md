@@ -1,2 +1,6 @@
-# Home
-Hello here it goes
+---
+hide:
+  - navigation
+  - toc
+---
+#
