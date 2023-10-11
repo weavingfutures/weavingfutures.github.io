@@ -1,4 +1,65 @@
-site_name: My Docs
+site_name: Re:Produce
 theme:
   name: material
+  favicon: images/logo.png
+  logo: images/logo.png
+
+  features:
+    - navigation.top
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    
+  custom_dir: 'overrides'  
+  language: en
+  palette:
+      primary: white
+      accent: yellow
+  font:
+    # See available fonts from https://fonts.google.com/
+    text: Arima Madurai
+    code: Roboto Mono
+plugins:
+  - social:
+     cards_layout_options:
+        font_family: Arima
+  - search
+extra_css:
+  - https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
+  - stylesheets/extra.css
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - tables
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra:
+  analytics:
+    provider: google
+    property: G-9TD7RVX7BP
+
+  social:
+    - icon: fontawesome/brands/youtube
+    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/facebook
+    - icon: fontawesome/brands/linkedin
 
