@@ -20,7 +20,7 @@
 
 @media screen and (min-width: 76.25em) {
     [data-md-color-primary="white"] .md-tabs {
-        border-bottom: .05rem solid #56AEFF;
+        border-bottom: .05rem solid #B9975B;
    }
 }
 
@@ -30,10 +30,10 @@
     --md-primary-fg-color--dark: rgba(0,0,0,0.07);
     --md-primary-bg-color: rgba(0,0,0,0.87);
     --md-primary-bg-color--light: rgba(0,0,0,0.54);
-    --md-typeset-a-color: #56AEFF; 
+    --md-typeset-a-color: #B9975B; 
 }
 [data-md-color-accent=yellow] {
-    --md-accent-fg-color: #56AEFF;
+    --md-accent-fg-color: #B9975B;
     --md-accent-fg-color--transparent: rgba(255, 231, 133,0.1);
     --md-accent-bg-color: rgba(0,0,0,0.87);
     --md-accent-bg-color--light: rgba(0,0,0,0.54);
@@ -44,14 +44,14 @@
 
 .md-typeset ul li::before {
   content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color: #FFE785; /* Change the color */
+  color: #B9975B; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 1em; /* Also needed for space (tweak if needed) */
   margin-left: -0.5em; /* Also needed for space (tweak if needed) */
 }
 :root>* {
-    --md-footer-bg-color: #56AEFF;
+    --md-footer-bg-color: #B9975B;
 }
 .swiper {
 max-width: 1100px;
