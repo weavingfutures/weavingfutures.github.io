@@ -63,3 +63,12 @@ extra:
     - icon: fontawesome/brands/facebook
     - icon: fontawesome/brands/linkedin
 
+  nav:
+  - Home: index.md
+  - Looms:
+    - Locket Loom: looms/pocket_loom.md
+  - About:
+    - About Us: about/about.md
+    
+
+
