@@ -67,6 +67,9 @@ nav:
   - Home: index.md
   - Looms:
     - Locket Loom: looms/pocket_loom.md
+    - Frame Loom: looms/frameloom.md
+    - Single Heddle Loom: looms/single_heddle_loom.md
+    - Multi Heddle Loom: looms/multi_heddle_loom.md
   - About:
     - About Us: about/about.md
     
