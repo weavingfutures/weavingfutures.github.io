@@ -7,7 +7,7 @@
 <div class="swiper-wrapper">
     <!-- Slides -->
     <div class="swiper-slide">   
-        <center><img src="../../images/looms/pocketloom1.jpg" alt="Pocket Loom Design"></center>
+        <center><img src="../../images/looms/pocketloom/pocketloom1.jpg" alt="Pocket Loom Design"></center>
         </div>
 </div>
 <div class="swiper-pagination"></div>
