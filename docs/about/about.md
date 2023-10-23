@@ -18,11 +18,11 @@ We are a diverse team, driven by our love for craftsmanship and our dedication t
 <p></br></p>
 <p><img align="left" alt="Rajagopal" src="../../images/about/raj.jpg" width="250" /></p>
 <h3>Rajagopal V. Krishnan</h3>
-<p>A passionate individual deeply rooted in the Indian handloom tradition, Raj was a marketing strategist for 25+ years. He Seematti's handloom journey, as it's brandhead. It was Raj who initiated & executed Kancheepuram Sarees entry into the Guinness Book of world records. He launched the channel, Surya TV, in Kerala. Raj takes charge of the project's marketing efforts, ensuring the outreach and engagement with a fresh generation of weavers.</p>
+<p>Raj, with a deep connection to Indian handloom, is a seasoned marketing strategist with 25+ years' experience. Formerly the brand head for Seematti, he led their handloom journey, initiated & executed Kancheepuram Sarees' Guinness World Record entry, and launched Surya TV in Kerala. At Weaving Futures, Raj spearheads marketing to engage the next generation of weavers.</p>
 <p></br></p>
 <p><img align="left" alt="Mili" src="../../images/about/mili.jpg" width="250" /></p>
 <h3>Mili John Tharakan</h3>
-<p>A textile artist who brings an international perspective to our project, Mili is a seasoned inventor-business leader who has under her many IP innovations. She has expertise in smart textiles and technology with experience in bringing products to market. Mili is a board member of Smart Textile Alliance. She is based out of London.Mili pioneers in innovative smart textile swatches and imparts her knowledge to weavers, modernizing weaving into a contemporary skill.</p>
+<p>Mili, a textile artist with a global outlook, is an accomplished inventor and business leader with numerous IP innovations. Her smart textile and technology expertise, coupled with her experience in product development, makes her a valuable asset. As a board member of the Smart Textile Alliance in London, Mili leads our project in creating cutting-edge smart textile swatches and empowering weavers to embrace modernized weaving techniques.</p>
 <p></br></p>
 
 ## Our Collaborators
