@@ -82,3 +82,6 @@ margin: 0 auto;
     color: var(--md-typeset-a-color);
 
 }    
+.md-typeset table:not([class]) th {
+	background-color: #B9975B
+}
