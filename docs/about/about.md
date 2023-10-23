@@ -13,15 +13,18 @@ Our mission is twofold: to equip handloom craftsmen with cutting-edge tools and 
 ## The Team
 
 We are a diverse team, driven by our love for craftsmanship and our dedication to creating a more inclusive and sustainable future for traditional artisans. With a blend of expertise in industrial design, technology, and a profound understanding of the handloom and crafts sector, we work tirelessly to make Weaving Futures a reality.
-
 <p><img align="left" alt="Nanditha" src="../../images/about/nandu.jpg" width="250" /></p>
-<h2>Nanditha Nair</h2>
-<p>Nanditha makes useful and beautiful things by exploring the complexities through handicrafts and digital fabrication. She self-learned about textiles and handicraft while working in the media. It took over as her secondary field until she ended up in her current position- part textile and product designer, part design researcher, part engineer. In addition to being a regular animal foster, she is also a proud co-parent to a clowder of cats and a dog.</p>
+<h3>Nanditha Nair</h3>
+<p>Nanditha makes useful and beautiful things by exploring the complexities through handicrafts and digital fabrication. She self-learned about textiles and handicraft while working in the media. Headed the team that won industrial design awards.  Researching on Bio Materials at IAAC, Barcelona.</p>
 <p></br></p>
-
-<p align="center"><img alt="Nanditha" src="../../images/about/nandu.jpg" /></p><b>Nanditha Nair </b>- An industrious industrial designer with a vision to merge tradition and technology, Nanditha is an engineer and creative technologist. She has worked with handlooms for almost a decade. Headed the team that won industrial design awards.  Researching on Bio Materials at IAAC, Barcelona.
-<p align="center"><img alt="Rajagopal" src="../../images/about/raj.jpg" /></p><b>Rajagopal Krishnan </b>- A passionate individual deeply rooted in the Indian handloom tradition, Raj was marketing strategist for 25+ years. He led Seematti and it's handloom journey, as it's brandhead. Initiated & executed Kancheepuram Sarees entry into the Guinness Book of world records. Launched Surya TV in Kerala.
-<p align="center"><img alt="Mili" src="../../images/about/mili.jpg" /></p><b> Mili Tharakan </b> - An enthusiast who brings an international perspective to our project, Mili is a seasoned inventor-business leader who has under her many IP innovations. She has expertise in smart textiles and technology with experience in bringing products to market. Mili is a board member of Smart Textile Alliance. She is based out of London.
+<p><img align="left" alt="Rajagopal" src="../../images/about/raj.jpg" width="250" /></p>
+<h3>Rajagopal V. Krishnan</h3>
+<p>A passionate individual deeply rooted in the Indian handloom tradition, Raj was a marketing strategist for 25+ years. He led Seematti and it's handloom journey, as it's brandhead. He initiated & executed Kancheepuram Sarees entry into the Guinness Book of world records. Launched Surya TV in Kerala.</p>
+<p></br></p>
+<p><img align="left" alt="Mili" src="../../images/about/mili.jpg" width="250" /></p>
+<h3>Mili John Tharakan</h3>
+<p>A textile artist who brings an international perspective to our project, Mili is a seasoned inventor-business leader who has under her many IP innovations. She has expertise in smart textiles and technology with experience in bringing products to market. Mili is a board member of Smart Textile Alliance. She is based out of London.</p>
+<p></br></p>
 
 ## Our Collaborators
 
