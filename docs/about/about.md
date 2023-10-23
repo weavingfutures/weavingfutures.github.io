@@ -13,6 +13,11 @@ Our mission is twofold: to equip handloom craftsmen with cutting-edge tools and 
 ## The Team
 
 We are a diverse team, driven by our love for craftsmanship and our dedication to creating a more inclusive and sustainable future for traditional artisans. With a blend of expertise in industrial design, technology, and a profound understanding of the handloom and crafts sector, we work tirelessly to make Weaving Futures a reality.
+<figure markdown>
+  ![Nanditha]("../../images/about/nandu.jpg"){ width="300" }
+  <figcaption>An industrious industrial designer with a vision to merge tradition and technology, Nanditha is an engineer and creative technologist. She has worked with handlooms for almost a decade. Headed the team that won industrial design awards.  Researching on Bio Materials at IAAC, Barcelona.</figcaption>
+</figure>
+
 ![Nanditha Nair]("../../images/about/nandu.jpg"){ width="300" }{ align=left } An industrious industrial designer with a vision to merge tradition and technology, Nanditha is an engineer and creative technologist. She has worked with handlooms for almost a decade. Headed the team that won industrial design awards.  Researching on Bio Materials at IAAC, Barcelona.
 ![Nanditha Nair](src="../../images/about/nandu.jpg"){ width="300" }{ align=left } An industrious industrial designer with a vision to merge tradition and technology, Nanditha is an engineer and creative technologist. She has worked with handlooms for almost a decade. Headed the team that won industrial design awards.  Researching on Bio Materials at IAAC, Barcelona.
 
