@@ -18,7 +18,7 @@ We are a diverse team, driven by our love for craftsmanship and our dedication t
 <p></br></p>
 <p><img align="left" alt="Rajagopal" src="../../images/about/raj.jpg" width="250" /></p>
 <h3>Rajagopal V. Krishnan</h3>
-<p>A passionate individual deeply rooted in the Indian handloom tradition, Raj was a marketing strategist for 25+ years. He led Seematti and it's handloom journey, as it's brandhead. He initiated & executed Kancheepuram Sarees entry into the Guinness Book of world records. He launched the channel, Surya TV, in Kerala. Raj takes charge of Weaving Futures' marketing efforts, ensuring the project's outreach and engagement with a fresh generation of weavers.</p>
+<p>A passionate individual deeply rooted in the Indian handloom tradition, Raj was a marketing strategist for 25+ years. He Seematti's handloom journey, as it's brandhead. It was Raj who initiated & executed Kancheepuram Sarees entry into the Guinness Book of world records. He launched the channel, Surya TV, in Kerala. Raj takes charge of the project's marketing efforts, ensuring the outreach and engagement with a fresh generation of weavers.</p>
 <p></br></p>
 <p><img align="left" alt="Mili" src="../../images/about/mili.jpg" width="250" /></p>
 <h3>Mili John Tharakan</h3>
