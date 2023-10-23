@@ -14,13 +14,9 @@ Our mission is twofold: to equip handloom craftsmen with cutting-edge tools and 
 
 We are a diverse team, driven by our love for craftsmanship and our dedication to creating a more inclusive and sustainable future for traditional artisans. With a blend of expertise in industrial design, technology, and a profound understanding of the handloom and crafts sector, we work tirelessly to make Weaving Futures a reality.
 <figure markdown>
-  ![Nanditha](https://weavingfutures.github.io/docs/images/about/nandu.jpg){ width="300" }
+  ![Nanditha](https://github.com/weavingfutures/weavingfutures.github.io/blob/main/docs/images/about/nandu.jpg){ width="300" }
   <figcaption>An industrious industrial designer with a vision to merge tradition and technology, Nanditha is an engineer and creative technologist. She has worked with handlooms for almost a decade. Headed the team that won industrial design awards.  Researching on Bio Materials at IAAC, Barcelona.</figcaption>
 </figure>
-
-![Nanditha Nair]("../../images/about/nandu.jpg"){ width="300" }{ align=left } An industrious industrial designer with a vision to merge tradition and technology, Nanditha is an engineer and creative technologist. She has worked with handlooms for almost a decade. Headed the team that won industrial design awards.  Researching on Bio Materials at IAAC, Barcelona.
-![Nanditha Nair](src="../../images/about/nandu.jpg"){ width="300" }{ align=left } An industrious industrial designer with a vision to merge tradition and technology, Nanditha is an engineer and creative technologist. She has worked with handlooms for almost a decade. Headed the team that won industrial design awards.  Researching on Bio Materials at IAAC, Barcelona.
-
 <p align="center"><img alt="Nanditha" src="../../images/about/nandu.jpg" /></p><b>Nanditha Nair </b>- An industrious industrial designer with a vision to merge tradition and technology, Nanditha is an engineer and creative technologist. She has worked with handlooms for almost a decade. Headed the team that won industrial design awards.  Researching on Bio Materials at IAAC, Barcelona.
 <p align="center"><img alt="Rajagopal" src="../../images/about/raj.jpg" /></p><b>Rajagopal Krishnan </b>- A passionate individual deeply rooted in the Indian handloom tradition, Raj was marketing strategist for 25+ years. He led Seematti and it's handloom journey, as it's brandhead. Initiated & executed Kancheepuram Sarees entry into the Guinness Book of world records. Launched Surya TV in Kerala.
 <p align="center"><img alt="Mili" src="../../images/about/mili.jpg" /></p><b> Mili Tharakan </b> - An enthusiast who brings an international perspective to our project, Mili is a seasoned inventor-business leader who has under her many IP innovations. She has expertise in smart textiles and technology with experience in bringing products to market. Mili is a board member of Smart Textile Alliance. She is based out of London.
