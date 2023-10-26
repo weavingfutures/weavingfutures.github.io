@@ -18,7 +18,7 @@ We are a diverse team, driven by our love for craftsmanship and our dedication t
 <p></br></p>
 <p><img align="left" alt="Mili" src="../../images/about/mili.jpg" width="250" /></p>
 <h3>Mili John Tharakan</h3>
-<p>Mili, a textile artist, is an accomplished inventor and business leader with numerous IP innovations. Her smart textile and technology expertise, coupled with her experience in product development, makes her a valuable asset. As a board member of the Smart Textile Alliance in London, Mili leads our project in creating cutting-edge smart textile swatches and empowering weavers to embrace modernized weaving techniques.</p>
+<p>Mili, a textile artist, is an accomplished inventor and business leader with numerous IP innovations. Her smart textile and technology expertise, coupled with her experience in product development, makes her a valuable asset. As a board member of the Smart Textile Alliance in London, Mili leads our project in creating smart textile swatches and empowering weavers to embrace modernized weaving techniques.</p>
 <p></br></p>
 <p><img align="left" alt="Nanditha" src="../../images/about/nandu.jpg" width="250" /></p>
 <h3>Nanditha Nair</h3>
