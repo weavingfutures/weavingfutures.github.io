@@ -22,7 +22,7 @@ theme:
       accent: yellow
   font:
     # See available fonts from https://fonts.google.com/
-    text: Exo
+    text: Proxima Nova
     code: Roboto Mono
 plugins:
   - social:
